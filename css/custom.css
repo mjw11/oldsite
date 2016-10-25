@@ -9,9 +9,9 @@ h5{
 p {
 	font-family: 'Potano Sans', sans-serif;
 	font-size: 16px;
-	line-height: 60px;
+	line-height: 35px;
 	display: block;
-	margin: 0;
+	/*margin: 0;*/
 }
 
 .container{
