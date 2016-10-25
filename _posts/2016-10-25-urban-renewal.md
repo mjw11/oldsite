@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matthew Weinschenk
+title: "Matthew Weinschenk"
 date: 2016-10-25
 ---
 
